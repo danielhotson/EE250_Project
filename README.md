@@ -5,6 +5,7 @@ project_sendBPM.py - should be run on the rpi that the sensors are connected to
 project_receiveBPM.py - should be run on laptop or VM.
 pulsesensor.py - open source library should be in the same directory as project_sendBPM.py
 MCP3008.py - open source library should be in the same directory as project_sendBPM.py
+Temperature and Humidity data collected at the phone node using MyMQTT downloaded from the playstore.
 Libraries used:
 pulsesensor
 grovepi
